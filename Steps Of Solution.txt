@@ -1,0 +1,4 @@
+Iteration no. [0]
+ x(i+1) = g(x(i)) 
+ ea = ( (x(i+1) - x(i)) / x(i+1) ) * 100 %Iteration no. [1]
+ x(i+1) = g(-1.0) = -1.0
